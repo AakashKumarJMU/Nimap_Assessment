@@ -1,5 +1,5 @@
 
-package com.tejas.JWT_Project;
+package com.aakash.JWT_Project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
